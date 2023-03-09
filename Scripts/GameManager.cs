@@ -15,7 +15,9 @@ public class GameManager : MonoBehaviour
     [SerializeField] List<Characters> characters;
     [SerializeField] TextMeshProUGUI characterNameTMP;
     [SerializeField] Image characterImage;
+    
     [Space]
+    
     [SerializeField] List<Characters> endings;
     [SerializeField] TextMeshProUGUI eventTMP;
     private Characters currentCharacter;
