@@ -2,7 +2,7 @@
 
 - Dialogs made by ChatGPT.
 - Images made by Midjourney.
-- Music made by Beatoven.ai.
+- Music made by Beatoven.
 - Gameplay made by me.
 
 # Game Preview
